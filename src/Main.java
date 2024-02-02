@@ -39,5 +39,47 @@ public class Main {
 //        p.name="小明";
 //        System.out.println(p.name);
 // 类不需要main
+//    Person person = new Person();
+//    person.name = "王义";
+//    person.age = 18;
+//    person.hello();
+//        int result = person.sum(10,20);
+//        System.out.println(result);
+//        Person p = new Person();
+////        int a = 5;
+////        int b =10;
+//        p.swap(a,b);
+//        System.out.println(a);
+//        System.out.println(b);
+//
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
 }
